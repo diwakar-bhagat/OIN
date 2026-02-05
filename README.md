@@ -1,7 +1,12 @@
 
-  # Apple-Glass News Cards
+  # OIN
 
-  This is a code bundle for Apple-Glass News Cards. The original project is available at https://www.figma.com/design/CTfxwnV9hOghCnFrl5533F/Apple-Glass-News-Cards.
+  git init
+git add .
+git commit -m "First commit in root"
+git branch -M main
+git remote add origin https://github.com
+git push -u origin main
 
   ## Running the code
 
